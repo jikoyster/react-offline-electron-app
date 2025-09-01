@@ -5,7 +5,7 @@ to run
     - name
     - email
 - run backend first
-- <code>node backend/server.js</code>
+  <code>node backend/server.js</code>
     
 - npm install  
 - npm run dev
