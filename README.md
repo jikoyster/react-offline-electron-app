@@ -8,6 +8,6 @@ to run
   <code>node backend/server.js</code>
     
 - npm install  
-- to run UI
+- to run UI  
   <code>npm run dev</code>
 
