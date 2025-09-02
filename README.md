@@ -8,7 +8,7 @@ to run
 RUN BACKEND FIRST  
   <code>node backend/server.js</code>
     
-ON FRONTEND
+ON FRONTEND  
 - npm install  
 - to run UI  
   <code>npm run dev</code>
