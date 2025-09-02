@@ -4,9 +4,11 @@ to run
   - table Users
     - name
     - email
-- run backend first  
+
+RUN BACKEND FIRST  
   <code>node backend/server.js</code>
     
+ON FRONTEND:
 - npm install  
 - to run UI  
   <code>npm run dev</code>
