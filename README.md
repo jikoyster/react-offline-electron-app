@@ -1,7 +1,8 @@
 to run
 
 - create database named: terrasync
-  - table Users
+  - edit .env file for database credentials 
+  - with table "Users"
     - name
     - email
 
